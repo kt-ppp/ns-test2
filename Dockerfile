@@ -1,2 +1,2 @@
-FROM registry.local/ns-apps/31ffe1f288f31462b11f7c:a4d88bf2be4a87c9a2e957
-RUN printenv | grep NS_MARIADB
+FROM registry.ns.trap.jp/ns-apps/416ce02208446ca305f75a:fccbcb879490ce60d567b5
+RUN printenv
